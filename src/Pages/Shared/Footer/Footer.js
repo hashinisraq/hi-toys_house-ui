@@ -7,7 +7,7 @@ const Footer = () => {
             <Row xs={1} md={1} lg={1} className="g-4 m-0" style={{ textAlign: 'center', fontFamily: 'Roboto' }}>
                 <Col>
                     <div>
-                        <p style={{ padding: '4px 3px 4px 3px', color: 'black', fontWeight: "500" }}>© HI-Toys House 2023</p>
+                        <p style={{ padding: '4px 3px 4px 3px', color: 'black', fontWeight: "500" }}>© TOYS HOUSE</p>
                     </div>
                 </Col>
             </Row>
